@@ -18,4 +18,4 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-<div align="center">Desenvolvido por <a href="https://github.com/yantvrs" >Yan Tavares</a></div>">Clique aqui</a> Para acessar a Social Tree</p>
+<div align="center">Desenvolvido por <a href="https://github.com/yantvrs" >Yan Tavares</a></div>
